@@ -1,1 +1,0 @@
-Este repositório contém o desenvolvimento de um bot inteligente para Discord, utilizando tecnologias de Inteligência Artificial para melhorar a experiência dos usuários em servidores de Discord.
