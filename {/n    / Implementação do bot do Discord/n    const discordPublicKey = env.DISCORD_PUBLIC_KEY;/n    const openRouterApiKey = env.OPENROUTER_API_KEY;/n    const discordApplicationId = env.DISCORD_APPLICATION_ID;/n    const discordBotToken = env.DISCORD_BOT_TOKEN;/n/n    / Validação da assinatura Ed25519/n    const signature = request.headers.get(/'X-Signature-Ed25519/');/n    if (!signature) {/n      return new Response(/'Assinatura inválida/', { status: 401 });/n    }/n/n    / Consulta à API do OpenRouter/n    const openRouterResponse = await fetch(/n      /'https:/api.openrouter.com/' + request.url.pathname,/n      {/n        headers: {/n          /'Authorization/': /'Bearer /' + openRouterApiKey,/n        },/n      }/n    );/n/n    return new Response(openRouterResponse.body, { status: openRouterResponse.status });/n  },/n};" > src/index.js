@@ -1,0 +1,1 @@
+"import { Context } from \'@cloudflare/workers/\';\n\nexport const handler: ExportedHandler = {\n  async fetch(\n    request: Request,\n    env: Env,\n    context: Context\n  ): Promise<Response
