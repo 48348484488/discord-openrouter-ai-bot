@@ -1,5 +1,0 @@
-DISCORD_PUBLIC_KEY=your_discord_public_key
-DISCORD_APPLICATION_ID=your_discord_application_id
-DISCORD_BOT_TOKEN=your_discord_bot_token
-OPENROUTER_API_KEY=your_openrouter_api_key
-OPENROUTER_MODEL=openai/gpt-4o-mini
